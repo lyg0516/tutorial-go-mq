@@ -1,3 +1,4 @@
+![img.png](img.png)
 ## Round-robin dispatching
 One of the advantages of using a Task Queue is the ability to easily parallelise work. If we are building up a backing of work.
 we can just add more workers and that way, scale easily.
